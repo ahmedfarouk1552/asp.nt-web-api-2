@@ -1,0 +1,30 @@
+C:\Users\WG\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\WG\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\WG\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\WG\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WG\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\WG\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WG\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\WG\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\WG\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\WG\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\WG\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\WG\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\WG\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\WG\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\WG\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\iti\الأسبوع الحادي عشر\C#\Web Api\D02\Lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\iti\الأسبوع الحادي عشر\C#\Web Api\D02\Lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\iti\الأسبوع الحادي عشر\C#\Web Api\D02\Lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\iti\الأسبوع الحادي عشر\C#\Web Api\D02\Lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\iti\الأسبوع الحادي عشر\C#\Web Api\D02\Lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\iti\الأسبوع الحادي عشر\C#\Web Api\D02\Lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\iti\الأسبوع الحادي عشر\C#\Web Api\D02\Lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\iti\الأسبوع الحادي عشر\C#\Web Api\D02\Lab\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\iti\الأسبوع الحادي عشر\C#\Web Api\D02\Lab\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\iti\الأسبوع الحادي عشر\C#\Web Api\D02\Lab\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\iti\الأسبوع الحادي عشر\C#\Web Api\D02\Lab\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+F:\iti\الأسبوع الحادي عشر\C#\Web Api\D02\Lab\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.dll
+F:\iti\الأسبوع الحادي عشر\C#\Web Api\D02\Lab\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+F:\iti\الأسبوع الحادي عشر\C#\Web Api\D02\Lab\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Net.Http.Formatting.xml
+F:\iti\الأسبوع الحادي عشر\C#\Web Api\D02\Lab\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete

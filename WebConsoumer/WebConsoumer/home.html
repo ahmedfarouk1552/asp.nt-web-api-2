@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script src="Scripts/jquery-3.6.0.js"></script>
+    <script>
+        $(function() {
+            $.ajax({
+                url='http://localhost:51403/api/students',
+                method: get,
+                success: function (data) {
+                    alert(JSON.stringify(data));
+
+                },
+                error: function () {
+                    alert('error');
+                }
+
+
+            })
+            function add() {
+                let obj = {
+                    id: $("#id").val(),
+                    name: $("#name").val(),
+                    age: $("#age").val()
+                }
+                alert(JSON.stringify(obj));
+            }
+
+            $.ajax({
+                url='http://localhost:51403/api/students',
+                method: post,
+                data: JSON.stringify(obj),
+                contentType: 'application/json',
+                success: function (data) {
+                    alert(JSON.stringify(data));
+                },
+                error: function () {
+                    alert("error");
+                }
+                
+
+
+                
+            })
+
+        }
+            
+
+
+           
+    </script>
+    <title></title>
+</head>
+<body>
+    id: <input type="text" id="id" /><br />
+    name: <input type="text" id="name" /><br />
+    age:<input type="text" id="age" /><br />
+    <input type="button" value="Add" onclick="add()" />
+</body>
+</html>
